@@ -1,0 +1,5 @@
+credentials:
+  lab1:
+    anyuser:
+      auth-type: oauth1
+      maas-oauth: 5Q8kuCcadJU4LbBXVG:KaUtpECDFg2kAaYC4C:DKata9xwwZjgMQqU7qDv6LhDeS4MNyzQ
