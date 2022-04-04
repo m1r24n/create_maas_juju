@@ -71,7 +71,7 @@ Documentation can be found [here](https://maas.io/docs/snap/3.1/ui/maas-installa
 
 6. add MAAS cloud using the following command
 
-        juju add-cloud --local lab1 ./maas-cloud.yaml
+        juju add-cloud --local lab1 ./maas-clouds.yaml
 
 7. set the credential using the following command
 
